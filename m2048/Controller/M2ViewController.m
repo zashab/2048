@@ -157,7 +157,7 @@
     _overlay.message.text = @"Game Over";
   } else {
     _overlay.keepPlaying.hidden = NO;
-    _overlay.message.text = @"You Win!";
+    _overlay.message.text = @"MOlly gets a cracker!";
   }
   
   // Fake the overlay background as a mask on the board.
