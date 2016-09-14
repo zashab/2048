@@ -10,7 +10,7 @@
 #import "M2Tile.h"
 
 @implementation M2Cell
-
+//cell init
 - (instancetype)initWithPosition:(M2Position)position {
   if (self = [super init]) {
     self.position = position;
