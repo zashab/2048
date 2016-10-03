@@ -302,7 +302,7 @@
 
 + (UIColor *)scoreBoardColor
 {
-  return RGB(243, 168, 60);
+  return RGB(243, 168, 80);
 }
 
 
