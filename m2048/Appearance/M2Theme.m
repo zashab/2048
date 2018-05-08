@@ -302,13 +302,13 @@
 
 + (UIColor *)scoreBoardColor
 {
-  return RGB(243, 168, 60);
+  return RGB(243, 168, 80);
 }
 
 
 + (UIColor *)buttonColor
 {
-  return RGB(242, 79, 46);
+  return RGB(242, 79, 23);
 }
 
 
